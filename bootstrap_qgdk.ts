@@ -1,0 +1,1 @@
+const service_qgdk = <T>(args: T): T => { return args; };
