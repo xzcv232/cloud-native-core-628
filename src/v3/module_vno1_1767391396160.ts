@@ -1,0 +1,1 @@
+const util_vno1 = (d: any) => d;
